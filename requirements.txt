@@ -1,0 +1,6 @@
+gast==0.2.2
+tensorflow-gpu==1.14
+gym[box2d]
+skimage
+numpy
+matplotlib
